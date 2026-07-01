@@ -3,8 +3,9 @@
 **Full Stack Developer & AI Automation Engineer**
 I build web apps and AI systems that make businesses run faster.
 
-- 🔭 Currently building **[InvoiceAI](https://github.com/rhjoyofficial)** — an AI-powered invoice & proposal generator (Laravel + React + Claude API)
-- 🌐 Built **[TycoonBD](https://github.com/rhjoyofficial/TycoonBD)** — reached 2,500 organic Google clicks in its first 28 days
+- 🔭 Currently building **InvoiceAI** — an AI-powered invoice & proposal generator (Laravel + React + Claude API)
+- 🏢 Software Innovation & System Engineer at **Bor De Guna** — build and maintain systems across its ecosystem (LaLaDia, Bionic Garden, Azmion)
+- 💻 Founder of **[End Brackets](https://endbrackets.com)** — web & software development, AI automation, and digital growth
 - 💼 Open for freelance projects, remote roles, and consulting
 - 📫 Reach me at **endbrackets.rhjoy@gmail.com**
 
@@ -24,10 +25,22 @@ I build web apps and AI systems that make businesses run faster.
 
 | Project | Description |
 |---|---|
+| [LaLaDia](https://laladia.com) | eCommerce platform for LaLaDia — luxury health & natural products brand |
+| [Bionic Garden](https://bionic.garden) | eCommerce platform for Bionic Garden — health & food products store |
+| [End Brackets](https://endbrackets.com) | My own software & AI automation agency |
+| [The Azmion](https://theazmion.com) | Agency website — web design, SEO, and brand strategy |
+
+<details>
+<summary>More projects</summary>
+
+| Project | Description |
+|---|---|
 | [TycoonBD](https://github.com/rhjoyofficial/TycoonBD) | Business directory platform for Bangladesh — 2,500 Google clicks in 28 days |
 | [zeno-E-commerce](https://github.com/rhjoyofficial/zeno-E-commerce) | Full-stack e-commerce platform — live at [zeno.endbrackets.com](https://zeno.endbrackets.com/) |
 | [Learning-Management-System](https://github.com/rhjoyofficial/Learning-Management-System) | Full-featured LMS — courses, enrollments, progress tracking |
 | [Commission-SaaS](https://github.com/rhjoyofficial/Commission-SaaS) | Multi-tenant commission tracking SaaS |
+
+</details>
 
 ## Connect
 
