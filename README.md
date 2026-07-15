@@ -6,7 +6,7 @@ I build web apps and AI systems that make businesses run faster.
 - 🤖 Leading the AI automation initiative at **Bor De Guna** — live in production at Bionic, rolling out next to LaLaDia and across the company
 - 🏢 Software Innovation & System Engineer at **Bor De Guna** — build and maintain systems across its ecosystem (LaLaDia, Bionic Garden, Azmion)
 - 💻 Founder of **[End Brackets](https://endbrackets.com)** — web & software development, AI automation, and digital growth
-- 🚀 Recent build: **InvoiceAI** — an AI-powered invoice & proposal generator (Laravel + React + Claude API)
+- 🚀 Recent build: **[InvoiceAI](https://github.com/rhjoyofficial/InvoiceAI)** — an AI-powered invoice & proposal generator (Laravel + React + Claude API)
 - 💼 Open for freelance projects, remote roles, and consulting
 - 📫 Reach me at **endbrackets.rhjoy@gmail.com**
 
