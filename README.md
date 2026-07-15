@@ -3,9 +3,10 @@
 **Full Stack Developer & AI Automation Engineer**
 I build web apps and AI systems that make businesses run faster.
 
-- 🔭 Currently building **InvoiceAI** — an AI-powered invoice & proposal generator (Laravel + React + Claude API)
+- 🤖 Leading the AI automation initiative at **Bor De Guna** — live in production at Bionic, rolling out next to LaLaDia and across the company
 - 🏢 Software Innovation & System Engineer at **Bor De Guna** — build and maintain systems across its ecosystem (LaLaDia, Bionic Garden, Azmion)
 - 💻 Founder of **[End Brackets](https://endbrackets.com)** — web & software development, AI automation, and digital growth
+- 🚀 Recent build: **InvoiceAI** — an AI-powered invoice & proposal generator (Laravel + React + Claude API)
 - 💼 Open for freelance projects, remote roles, and consulting
 - 📫 Reach me at **endbrackets.rhjoy@gmail.com**
 
@@ -25,20 +26,21 @@ I build web apps and AI systems that make businesses run faster.
 
 | Project | Description |
 |---|---|
-| [LaLaDia](https://laladia.com) | eCommerce platform for LaLaDia — luxury health & natural products brand |
-| [Bionic Garden](https://bionic.garden) | eCommerce platform for Bionic Garden — health & food products store |
+| [LaLaDia](https://laladia.com) | eCommerce platform for LaLaDia, luxury health & natural products brand |
+| [Bionic Garden](https://bionic.garden) | eCommerce platform for Bionic Garden, health & food products store |
 | [End Brackets](https://endbrackets.com) | My own software & AI automation agency |
-| [The Azmion](https://theazmion.com) | Agency website — web design, SEO, and brand strategy |
+| [The Azmion](https://theazmion.com) | Agency website, web design, SEO, and brand strategy |
 
 <details>
 <summary>More projects</summary>
 
 | Project | Description |
 |---|---|
-| [TycoonBD](https://github.com/rhjoyofficial/TycoonBD) | Business directory platform for Bangladesh — 2,500 Google clicks in 28 days |
-| [zeno-E-commerce](https://github.com/rhjoyofficial/zeno-E-commerce) | Full-stack e-commerce platform — live at [zeno.endbrackets.com](https://zeno.endbrackets.com/) |
-| [Learning-Management-System](https://github.com/rhjoyofficial/Learning-Management-System) | Full-featured LMS — courses, enrollments, progress tracking |
-| [Commission-SaaS](https://github.com/rhjoyofficial/Commission-SaaS) | Multi-tenant commission tracking SaaS |
+| [TycoonBD](https://github.com/rhjoyofficial/TycoonBD) | Business directory platform for Bangladesh, 2,500 Google clicks in 28 days |
+| [zeno-E-commerce](https://github.com/rhjoyofficial/zeno-E-commerce) | Full-stack e-commerce platform, live at [zeno.endbrackets.com](https://zeno.endbrackets.com/) |
+| [Learning-Management-System](https://github.com/rhjoyofficial/Learning-Management-System) | Full-featured LMS, courses, enrollments, progress tracking |
+| [CMMOIN Academy](https://cmmoin.academy) | Educational institution platform built on the LMS above |
+| [TDKI](https://tdki.org) | Islamic education and spiritual community platform |
 
 </details>
 
